@@ -47,4 +47,5 @@ Since I'm new here and have not much to say.. hmm, I like cats, the Japanese lan
   <a href="https://github.com/kosail">
     <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 1px; width: 100%;"/></a>
 </p>
+
 ![kosail's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosail&show_icons=true&theme=dracula)
