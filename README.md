@@ -11,7 +11,8 @@
 shyness = null;
 selfPresentation.nextString();
 ```
-I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) basics for school. Since I'm new here and have not much to say.. hmm, I like cats, the Japanese language and monas chinas. 🐱
+I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) basics for school, and getting my hands dirty learning Assembly just for fun. <br>
+Since I'm new here and have not much to say.. hmm, I like cats, the Japanese language and monas chinas. 🐱
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -26,7 +27,10 @@ I’m currently working hard [learning Java](https://github.com/kosail/Learning-
 </p>
 <!-- End of Social badges section -->
 
-<hr style="border: 2px solid rgba(167, 64, 95, 1); border-radius: 5px;">
+<p align="center">
+  <a href="https://github.com/kosail">
+    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 1px; width: 100%;"/></a>
+</p>
 
 ## 🧰 Languages and Tools
 
@@ -39,6 +43,8 @@ I’m currently working hard [learning Java](https://github.com/kosail/Learning-
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br>
 
-<hr style="border: 2px solid rgba(167, 64, 95, 0.7); border-radius: 5px;">
-
+<p align="center">
+  <a href="https://github.com/kosail">
+    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 1px; width: 100%;"/></a>
+</p>
 ![kosail's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosail&show_icons=true&theme=dracula)
