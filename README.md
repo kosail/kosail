@@ -1,5 +1,10 @@
-<h1 align="center">I'm kosail</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C74C71&center=true&vCenter=true&width=435&lines=a+computer+science+student." alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/kosail">
+    <img src="https://github.com/kosail/kosail/blob/main/src/name.png" alt="kosail" /></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C74C71&center=true&vCenter=true&width=435&lines=a+computer+science+student." alt="Typing SVG" /></a>
+</p>
 <br>
 
 ```java
