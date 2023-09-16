@@ -3,6 +3,7 @@
   <a href="https://github.com/kosail">
     <img src="https://github.com/kosail/kosail/blob/main/src/newName.png" alt="kosail" /></a>
 </p>
+<!-- Typing text got from https://readme-typing-svg.demolab.com/demo/ -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C74C71&center=true&vCenter=true&width=435&lines=a+computer+science+student." alt="Typing SVG" /></a>
 </p>
