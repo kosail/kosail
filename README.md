@@ -1,3 +1,4 @@
+<!-- Header and typing text -->
 <p align="center">
   <a href="https://github.com/kosail">
     <img src="https://github.com/kosail/kosail/blob/main/src/newName.png" alt="kosail" /></a>
@@ -7,6 +8,7 @@
 </p>
 <br>
 
+<!-- Self presentation and about me -->
 ```java
 shyness = null;
 selfPresentation.nextString();
@@ -16,22 +18,19 @@ Since I'm new here and have not much to say.. hmm, I like cats, the Japanese lan
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kosail?color=e1ad0e&style=for-the-badge&labelColor=c79600&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kosail?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-<!-- End of Social badges section -->
 
 <p align="center">
   <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 1px; width: 100%;"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 2px; width: 100%;"/></a>
 </p>
 
+<!-- self explanatory... -->
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -45,7 +44,7 @@ Since I'm new here and have not much to say.. hmm, I like cats, the Japanese lan
 
 <p align="center">
   <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 1px; width: 100%;"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 4px; width: 100%;"/></a>
 </p>
 
 ![kosail's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosail&show_icons=true&theme=dracula)
