@@ -12,7 +12,7 @@
 <!-- Self presentation and about me -->
 ```java
 shyness = null;
-selfPresentation.nextLine();
+selfPresentation.pop();
 ```
 I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) basics for school, and getting my hands dirty learning Assembly just for fun. <br>
 Since I'm new here and have not much to say.. hmm, I like cats, the Japanese language and monas chinas. 🐱
