@@ -14,8 +14,8 @@
 shyness = null;
 selfPresentation.pop();
 ```
-I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) basics for school, and getting my hands dirty learning Assembly just for fun. <br>
-Since I'm new here and have not much to say.. hmm, I like cats, the Japanese language and monas chinas. 🐱
+I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Developer anytime soon in the future. Heading to learn Assembly and C in the near future. <br>
+Since I'm new here and have not much to say.. hmm, I like cats, the Japanese language and linux. 🐱
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
