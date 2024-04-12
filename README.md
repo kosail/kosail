@@ -14,7 +14,7 @@
 shyness = null;
 selfPresentation.pop();
 ```
-I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Developer anytime soon in the future. Heading to learn Assembly and C in the near future. <br>
+I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into C++ for competitive programming.<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
 
 <!-- Social badges section -->
@@ -35,6 +35,7 @@ I like Lua, cats, the Japanese language and Linux. 🐱
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <!--<img align="left" alt="Assembly" width="33px" style="padding-right:10px;" src="https://github.com/kosail/kosail/blob/main/src/asm_white.png" />-->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
