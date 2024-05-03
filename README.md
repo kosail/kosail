@@ -8,24 +8,15 @@
 
 <br><br>
 
-<div style="width: 100%;">
-  <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.svg" style="width: 100%;">
-</div>
-<!-- <p style="font-size: 23px;"> // about me</p> -->
+<img src="https://github.com/kosail/kosail/blob/main/src/aboutme.svg" style="width: 100%;">
 <hr>
 
-<div style="width: 100%;">
-  <img src="https://github.com/kosail/kosail/blob/main/src/whoami.svg" style="width: 100%;">
-</div>
-<!-- <p align="center" style="color: #CDB4DB; font-size: 20px;">I’m a computer science student.</p> -->
+<img src="https://github.com/kosail/kosail/blob/main/src/whoami.svg" style="width: 100%;">
 
 Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
 
-<div style="width: 100%;">
-  <img src="https://github.com/kosail/kosail/blob/main/src/skill.svg" style="width: 100%;">
-</div>
-<!-- <p style="font-size: 23px;"> // Skills</p> -->
+<img src="https://github.com/kosail/kosail/blob/main/src/skill.svg" style="width: 100%;">
 <hr>
 
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
