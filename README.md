@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="left">
-    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="20%"/>
+    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="250px"/>
 </p>
   
 <p align="center">
