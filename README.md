@@ -40,7 +40,7 @@ I like Lua, cats, the Japanese language and Linux. 🐱
   
 <p align="right">
   <a href="https://www.pixiv.net/en/artworks/97918390">
-    <img src="https://github.com/kosail/kosail/blob/main/src/imageauthor.png" alt="skills" width="100px"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/imageauthor.png" alt="skills" width="120px"/></a>
 </p>
 
 <hr>
