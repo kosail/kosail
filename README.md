@@ -9,21 +9,18 @@
 <br><br>
 
 <p align="left">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="20%"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="20%"/>
 </p>
   
 <p align="center">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="38%"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="38%"/>
 </p>
 
 Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
 <hr>
 <p align="left">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="20%"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="15%"/>
 </p>
   
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
