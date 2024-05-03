@@ -15,12 +15,12 @@
   
 <p align="center">
   <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="35%"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="38%"/></a>
 </p>
 
 Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
-  
+<hr>
 <p align="left">
   <a href="https://github.com/kosail">
     <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="20%"/></a>
@@ -41,9 +41,10 @@ I like Lua, cats, the Japanese language and Linux. 🐱
   
   </br></br>
   
-<div align="right">
-<a href="https://www.pixiv.net/en/artworks/97918390" style="color: #FFC8DD; padding-right: 10px;">Image by ゆづあ</a>
-  </div>
+<p align="right">
+  <a href="https://www.pixiv.net/en/artworks/97918390">
+    <img src="https://github.com/kosail/kosail/blob/main/src/imageauthor.png" alt="skills" width="30%"/></a>
+</p>
 
 <hr>
 
