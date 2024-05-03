@@ -1,52 +1,50 @@
-<!-- Header and typing text -->
-<p align="center">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/newName.png" alt="kosail" /></a>
-</p>
-<!-- Typing text got from https://readme-typing-svg.demolab.com/demo/ -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C74C71&center=true&vCenter=true&width=435&lines=a+computer+science+student." alt="Typing SVG" /></a>
-</p>
-<br>
+<!-- Template created by [zillastar](https://github.com/zillastar) -->
+<!-- Thank you very much for this wonderful idea! If you ever read this, please note that you are the best. -->
 
-<!-- Self presentation and about me -->
-```java
-shyness = null;
-selfPresentation.pop();
-```
-I’m currently working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into C++ for competitive programming.<br>
-I like Lua, cats, the Japanese language and Linux. 🐱
+<p align = center ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=600&size=40&duration=7000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&height=80&lines=%3E%3E+kosail+%3C%3C" alt="Typing SVG" /></a></p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kosail?color=e1ad0e&style=for-the-badge&labelColor=c79600&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kosail?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+<div>
+<img align="right" width="400" alt="ゆづあ" src="https://i.imgur.com/L7a4nF3.jpeg"/>
 
-<p align="center">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 2px; width: 100%;"/></a>
-</p>
-
-<!-- self explanatory... -->
-## 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<!--<img align="left" alt="Assembly" width="33px" style="padding-right:10px;" src="https://github.com/kosail/kosail/blob/main/src/asm_white.png" />-->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<!--<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />-->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br>
+<h2> // about me</h2>
+  
+<p align="center" style="color: #CDB4DB; font-size: 20px;">I’m a computer science student.</p>
 
-<p align="center">
-  <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/divider.png" alt="kosail" style="height: 4px; width: 100%;"/></a>
-</p>
+Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
+I like Lua, cats, the Japanese language and Linux. 🐱
+  
+<h2> // Skills</h2>
+  
+- <h3> languages </h3>
+  <img src = "https://img.shields.io/badge/java-%23CDB4DB?style=for-the-badge&logo=coffeescript&logoColor=black" alt = "java" />
+  <img src = "https://img.shields.io/badge/c++-%23FFC8DD?style=for-the-badge&logo=cplusplus&logoColor=black" alt = "c++" />
+  <img src = "https://img.shields.io/badge/HTML5-FFAFCC?style=for-the-badge&logo=html5&logoColor=black" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-BDE0FE?style=for-the-badge&logo=css3&logoColor=black" alt = "css" />
+    
+- <h3> other skills </h3>
+  <img src = "https://img.shields.io/badge/Linux-%23A2D2FF.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
+  <img src = "https://img.shields.io/badge/Shell-%23B0B5ED.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt = "bash" />
 
-![kosail's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosail&show_icons=true&theme=dracula)
+- <h3> upcoming in the near future </h3>
+  <img src = "https://img.shields.io/badge/Spring-%23FFF5E4.svg?style=for-the-badge&logo=spring&logoColor=black" alt = "spring" />
+  
+  </br></br>
+  
+<div align="right">
+<a href="https://www.pixiv.net/en/artworks/97918390" style="color: #FFC8DD; padding-right: 10px;">Image by ゆづあ</a>
+  </div>
+</div>
+
+------
+
+  <br>
+  <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=kosail&theme=synthwave&show_icons=true&include_all_commits=true" />
+  
+  <p style="margin-left: 11%;">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosail&theme=synthwave&layout=compact" />
+  </p>
+
+
+------
