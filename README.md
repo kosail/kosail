@@ -8,32 +8,36 @@
 
 <br><br>
 
-<img src="https://github.com/kosail/kosail/blob/main/src/aboutme.svg" style="width: 100%;">
+<!-- <p style="font-size: 23px;"> // about me</p> -->
+<p align="center">
+  <a href="https://github.com/kosail">
+    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" /></a>
+</p>
 <hr>
-
-<img src="https://github.com/kosail/kosail/blob/main/src/whoami.svg" style="width: 100%;">
+  
+<p align="center" style="color: #CDB4DB; font-size: 20px;">I’m a computer science student.</p>
 
 Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
-
-<img src="https://github.com/kosail/kosail/blob/main/src/skill.svg" style="width: 100%;">
+  
+<p style="font-size: 23px;"> // Skills</p>
 <hr>
-
+  
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/java-%23CDB4DB?style=for-the-badge&logo=coffeescript&logoColor=black" alt = "java" />
   <img src = "https://img.shields.io/badge/c++-%23FFC8DD?style=for-the-badge&logo=cplusplus&logoColor=black" alt = "c++" />
   <img src = "https://img.shields.io/badge/HTML5-FFAFCC?style=for-the-badge&logo=html5&logoColor=black" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-BDE0FE?style=for-the-badge&logo=css3&logoColor=black" alt = "css" />
-
+    
 - <p style="font-size: 18px;"> other skills </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Linux-%23A2D2FF.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
   <img src = "https://img.shields.io/badge/Shell-%23B0B5ED.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt = "bash" />
 
 - <p style="font-size: 18px;"> upcoming in the near future </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Spring-%23FFF5E4.svg?style=for-the-badge&logo=spring&logoColor=black" alt = "spring" />
-
+  
   </br></br>
-
+  
 <div align="right">
 <a href="https://www.pixiv.net/en/artworks/97918390" style="color: #FFC8DD; padding-right: 10px;">Image by ゆづあ</a>
   </div>
