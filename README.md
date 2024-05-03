@@ -11,7 +11,7 @@
 <!-- <p style="font-size: 23px;"> // about me</p> -->
 <p align="center">
   <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" /></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="25%"/></a>
 </p>
 <hr>
   
