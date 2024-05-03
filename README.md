@@ -9,9 +9,9 @@
 <br><br>
 
 <!-- <p style="font-size: 23px;"> // about me</p> -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/kosail">
-    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="25%"/></a>
+    <img src="https://github.com/kosail/kosail/blob/main/src/aboutme.png" alt="aboutme" width="20%"/></a>
 </p>
 <hr>
   
@@ -20,7 +20,11 @@
 Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
 I like Lua, cats, the Japanese language and Linux. 🐱
   
-<p style="font-size: 23px;"> // Skills</p>
+<p align="left">
+  <a href="https://github.com/kosail">
+    <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="20%"/></a>
+</p>
+<!-- <p style="font-size: 23px;"> // Skills</p> -->
 <hr>
   
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
