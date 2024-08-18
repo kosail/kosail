@@ -16,7 +16,7 @@
     <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="310px"/>
 </p>
 
-Currently, working hard [learning Java](https://github.com/kosail/Learning-Java) for school and [developing my own projects](https://github.com/kosail/Java-Small-Projects) to become a Java Web Developer anytime soon in the future. Also deeping into [C++ for competitive programming](https://github.com/kosail/Learning-CPP).<br>
+Spring's backend or Multiplatform jetpack compose? I choose to become a senior dev on both! <br>
 I like Lua, cats, the Japanese language and Linux. 🐱
 <hr>
 <p align="left">
@@ -25,7 +25,7 @@ I like Lua, cats, the Japanese language and Linux. 🐱
   
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/java-%23CDB4DB?style=for-the-badge&logo=coffeescript&logoColor=black" alt = "java" />
-  <img src = "https://img.shields.io/badge/c++-%23FFC8DD?style=for-the-badge&logo=cplusplus&logoColor=black" alt = "c++" />
+  <img src = "https://img.shields.io/badge/kotlin-%23FFC8DD?style=for-the-badge&logo=kotlin&logoColor=black" alt = "c++" />
   <img src = "https://img.shields.io/badge/HTML5-FFAFCC?style=for-the-badge&logo=html5&logoColor=black" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-BDE0FE?style=for-the-badge&logo=css3&logoColor=black" alt = "css" />
     
@@ -33,7 +33,7 @@ I like Lua, cats, the Japanese language and Linux. 🐱
   <img src = "https://img.shields.io/badge/Linux-%23A2D2FF.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
   <img src = "https://img.shields.io/badge/Shell-%23B0B5ED.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt = "bash" />
 
-- <p style="font-size: 18px;"> upcoming in the near future </p style="font-size: 18px;">
+- <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Spring-%23FFF5E4.svg?style=for-the-badge&logo=spring&logoColor=black" alt = "spring" />
   
   </br></br>
