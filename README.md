@@ -15,9 +15,8 @@
 <p align="center">
     <img src="https://github.com/kosail/kosail/blob/main/src/whoami.png" alt="aboutme" width="310px"/>
 </p>
-
-Spring's backend or Multiplatform jetpack compose? I choose to become a senior dev on both! <br>
-I like Lua, cats, the Japanese language and Linux. 🐱
+I build with Java, create magic with Kotlin, and deploy on Spring – but my secret weapon is a little C++ on the side. 🐱 <br>
+When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan. 🏯
 <hr>
 <p align="left">
     <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="160px"/>
@@ -25,16 +24,19 @@ I like Lua, cats, the Japanese language and Linux. 🐱
   
 - <p style="font-size: 18px;"> languages </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/java-%23CDB4DB?style=for-the-badge&logo=coffeescript&logoColor=black" alt = "java" />
-  <img src = "https://img.shields.io/badge/kotlin-%23FFC8DD?style=for-the-badge&logo=kotlin&logoColor=black" alt = "c++" />
+  <img src = "https://img.shields.io/badge/kotlin-%23FFC8DD?style=for-the-badge&logo=kotlin&logoColor=black" alt = "kotlin" />
   <img src = "https://img.shields.io/badge/HTML5-FFAFCC?style=for-the-badge&logo=html5&logoColor=black" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-BDE0FE?style=for-the-badge&logo=css3&logoColor=black" alt = "css" />
     
 - <p style="font-size: 18px;"> other skills </p style="font-size: 18px;">
-  <img src = "https://img.shields.io/badge/Linux-%23A2D2FF.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
+  <img src = "https://img.shields.io/badge/Linux-%23e5c8cc.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
   <img src = "https://img.shields.io/badge/Shell-%23B0B5ED.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt = "bash" />
+  <img src = "https://img.shields.io/badge/Oracle-%23B0B5ED.svg?style=for-the-badge&logo=oracle&logoColor=black" alt = "Oracle DBMS" />
+  
 
 - <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Spring-%23FFF5E4.svg?style=for-the-badge&logo=spring&logoColor=black" alt = "spring" />
+  <img src = "https://img.shields.io/badge/javascript-%23e8cfa5?style=for-the-badge&logo=javascript&logoColor=black" alt = "javascript" />
   
   </br></br>
   
