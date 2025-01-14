@@ -31,7 +31,7 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
 - <p style="font-size: 18px;"> other skills </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Linux-%23e5c8cc.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
   <img src = "https://img.shields.io/badge/Shell-%23B0B5ED.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt = "bash" />
-  <img src = "https://img.shields.io/badge/Oracle-%23B0B5ED.svg?style=for-the-badge&logo=oracle&logoColor=black" alt = "Oracle DBMS" />
+  <img src = "https://img.shields.io/badge/Oracle-%23B0B5ED.svg?style=for-the-badge&logo=opera&logoColor=black" alt = "Oracle DBMS" />
   
 
 - <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
