@@ -39,7 +39,7 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
   <img src = "https://img.shields.io/badge/Spring-%23373A26.svg?style=for-the-badge&logo=spring&logoColor=%23f1f1f1" alt = "spring" />
   <img src = "https://img.shields.io/badge/Jetpack_Compose-%23272C1F?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt = "compose" />
   
-  </br></br>
+  </br>
 <hr>
 
 <p align="center">
