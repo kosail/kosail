@@ -1,4 +1,4 @@
-<!-- Template created by [zillastar](https://github.com/zillastar) -->
+<!-- Inspired in the template created by [zillastar](https://github.com/zillastar) -->
 <!-- Thank you very much for this wonderful idea! If you ever read this, please note that you are the best. -->
 
 <p align = center ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=600&size=40&duration=7000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&height=80&lines=%3E%3E+kosail+%3C%3C" alt="Typing SVG" /></a></p>
@@ -12,9 +12,13 @@
 
 <br><br>
 
+<p align="center">
 I build with Java, but create magic with Kotlin. 🐱 <br>
 When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan. 🏯
+</p>
+
 <hr>
+
 <p align="left">
     <img src="https://github.com/kosail/kosail/blob/main/src/skills.png" alt="skills" width="160px"/>
 </p>
@@ -38,7 +42,9 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
   </br></br>
 <hr>
 
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosail&theme=gruvbox&layout=compact&card_width=500" />
+<p align="center">
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosail&theme=gruvbox&layout=compact&card_width=460" />
+</p>
 
 </div>
 
