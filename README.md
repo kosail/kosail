@@ -8,7 +8,7 @@
 </p>
 
 <div>
-<img align="right" width="400" src="https://github.com/kosail/kosail/blob/main/src/right.png"/>
+<img align="right" width="400" src="https://github.com/kosail/kosail/blob/main/src/right_img.png"/>
 
 <br><br>
 
