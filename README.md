@@ -10,7 +10,7 @@
 <div>
 <img align="right" width="400" src="https://github.com/kosail/kosail/blob/main/src/right_img.png"/>
 
-<br><br>
+<br>
 
 <p align="center">
 I build with Java, but create magic with Kotlin. 🐱 <br>
