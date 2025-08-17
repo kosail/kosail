@@ -37,8 +37,8 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
 
 - <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Jetpack_Compose-%23272C1F?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt = "Compose Multiplatform" />
-  <img src = "https://img.shields.io/badge/.NET-%2370724B?style=for-the-badge&logo=rider&logoColor=%23f1f1f1" alt = "dotnet" />
-  <img src = "https://img.shields.io/badge/Power_Bi-%23373A26.svg?style=for-the-badge&logo=retool&logoColor=%23f1f1f1" alt = "Power Bi" />
+  <img src = "https://img.shields.io/badge/TypeScript-%2370724B?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt = "Typescript" />
+  <img src = "https://img.shields.io/badge/React-%23CC8832.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt = "React" />
   
   </br>
 <hr>
