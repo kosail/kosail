@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-I build with Java, but create magic with Kotlin. 🐱 <br>
+I build with TypeScript, but create magic with Kotlin. 🐱 <br>
 When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan. 🏯
 </p>
 
@@ -29,17 +29,19 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
   <img src = "https://img.shields.io/badge/HTML5-%238B7E49?style=for-the-badge&logo=html5&logoColor=%23f1f1f1" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-%233E3E23?style=for-the-badge&logo=css&logoColor=%23f1f1f1" alt = "css" />
   <img src = "https://img.shields.io/badge/TypeScript-%23272C1F?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt = "Typescript" />
+  <img src = "https://img.shields.io/badge/JavaScript-%2370724B?style=for-the-badge&logo=javascript&logoColor=%23f1f1f1" alt = "JavaScript" />  
     
 - <p style="font-size: 18px;"> other skills </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Linux-%23CC8832?style=for-the-badge&logo=linux&logoColor=%23f1f1f1" alt = "linux" />
-  <img src = "https://img.shields.io/badge/Shell-%23BD6B1C.svg?style=for-the-badge&logo=gnubash&logoColor=%23f1f1f1" alt = "shell" />
+  <img src = "https://img.shields.io/badge/Shell_Scripting-%23BD6B1C.svg?style=for-the-badge&logo=gnubash&logoColor=%23f1f1f1" alt = "shell scripting" />
   <img src = "https://img.shields.io/badge/Oracle-%23362D16.svg?style=for-the-badge&logo=opera&logoColor=%23f1f1f1" alt = "Oracle DBMS" />
+  <img src = "https://img.shields.io/badge/SQL_Server-%2370724B?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt = "SQL Server" />  
+  <img src = "https://img.shields.io/badge/React-%23CC8832.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt = "React" />
   
 
 - <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
   <img src = "https://img.shields.io/badge/Jetpack_Compose-%23272C1F?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt = "Compose Multiplatform" />
-  <img src = "https://img.shields.io/badge/React-%23CC8832.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt = "React" />
-  <img src = "https://img.shields.io/badge/SQL_Server-%2370724B?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt = "SQL Server" />  
+  <img src = "https://img.shields.io/badge/D_Language-%23384334?style=for-the-badge&logo=d&logoColor=%23f1f1f1" alt = "dlang" />
   
   
   </br>
