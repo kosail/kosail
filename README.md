@@ -37,6 +37,7 @@ When I'm not coding, you’ll find me with cats, Linux, and daydreaming of Japan
   <img src = "https://img.shields.io/badge/Oracle-%23362D16.svg?style=for-the-badge&logo=opera&logoColor=%23f1f1f1" alt = "Oracle DBMS" />
   <img src = "https://img.shields.io/badge/SQL_Server-%2370724B?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt = "SQL Server" />  
   <img src = "https://img.shields.io/badge/React-%23CC8832.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt = "React" />
+  <img src = "https://img.shields.io/badge/Zustand-%238B7E49?style=for-the-badge&logo=zotero&logoColor=%23f1f1f1" alt = "zustand" />
   
 
 - <p style="font-size: 18px;"> currently learning </p style="font-size: 18px;">
