@@ -26,10 +26,11 @@ And somewhere between Kotlin flows and React thoughts, I’m still searching for
 </p>
   <img src="https://img.shields.io/badge/java-%23466D20?style=for-the-badge&logo=coffeescript&logoColor=%23f1f1f1" alt="java" />
   <img src="https://img.shields.io/badge/kotlin-%23769440?style=for-the-badge&logo=kotlin&logoColor=%23f1f1f1" alt="kotlin" />
-  <img src="https://img.shields.io/badge/HTML5-%232D431E?style=for-the-badge&logo=html5&logoColor=%23f1f1f1" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-%231C2211?style=for-the-badge&logo=css&logoColor=%23f1f1f1" alt="css" />
-  <img src="https://img.shields.io/badge/TypeScript-%23070F06?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt="Typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-%232D431E?style=for-the-badge&logo=javascript&logoColor=%23f1f1f1" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/go-%232D431E?style=for-the-badge&logo=go&logoColor=%23f1f1f1" alt="go" />
+  <img src="https://img.shields.io/badge/HTML5-%231C2211?style=for-the-badge&logo=html5&logoColor=%23f1f1f1" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-%23070F06?style=for-the-badge&logo=css&logoColor=%23f1f1f1" alt="css" />
+  <img src="https://img.shields.io/badge/TypeScript-%232D431E?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt="Typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23466D20?style=for-the-badge&logo=javascript&logoColor=%23f1f1f1" alt="JavaScript" />  
     
 <p align="left">
     <img src="src/other.webp" alt="skills" width="240px"/>
@@ -47,6 +48,7 @@ And somewhere between Kotlin flows and React thoughts, I’m still searching for
   <img src="https://img.shields.io/badge/Jetpack_Compose-%23466D20?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt="Compose Multiplatform" />
   <img src="https://img.shields.io/badge/Zig-%231C2211?style=for-the-badge&logo=zig&logoColor=%23f1f1f1" alt="zig" />
   <img src="https://img.shields.io/badge/Quarkus-%23070F06?style=for-the-badge&logo=quarkus&logoColor=%23f1f1f1" alt="quarkus" />
+  <img src="https://img.shields.io/badge/MQTT-%232D431E?style=for-the-badge&logo=MQTT&logoColor=%23f1f1f1" alt="MQTT" />
   
   
   <br><br><br>
