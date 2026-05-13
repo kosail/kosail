@@ -8,9 +8,13 @@
     <img src="src/about.webp" alt="skills" width="320px"/>
 </p>
 <p align="left">
-Loving open source software and GTK spirits, I build things that almost feel like silence... the kind Murakami would leave between lines.
+I build software the same way I admire software: clean, minimal, and open.
 
-And somewhere between Kotlin flows and React thoughts, I’m still searching for something precise and unnamed. Maybe in my one country I left, maybe in my old self.
+
+Raised by Linux, shaped by free and open source communities, I care about products that feel simple to use and architectures that remain elegant long after they grow.
+
+
+TypeScript, React, Next.js, and Go are the tools I am using to design both the visible interface and the silent machinery behind it.
 </p>
 </div>
 <br>
@@ -24,31 +28,41 @@ And somewhere between Kotlin flows and React thoughts, I’m still searching for
 <p align="left">
     <img src="src/languages.webp" alt="skills" width="240px"/>
 </p>
-  <img src="https://img.shields.io/badge/java-%23466D20?style=for-the-badge&logo=coffeescript&logoColor=%23f1f1f1" alt="java" />
-  <img src="https://img.shields.io/badge/kotlin-%23769440?style=for-the-badge&logo=kotlin&logoColor=%23f1f1f1" alt="kotlin" />
-  <img src="https://img.shields.io/badge/go-%232D431E?style=for-the-badge&logo=go&logoColor=%23f1f1f1" alt="go" />
-  <img src="https://img.shields.io/badge/HTML5-%231C2211?style=for-the-badge&logo=html5&logoColor=%23f1f1f1" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-%23070F06?style=for-the-badge&logo=css&logoColor=%23f1f1f1" alt="css" />
-  <img src="https://img.shields.io/badge/TypeScript-%232D431E?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt="Typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23466D20?style=for-the-badge&logo=javascript&logoColor=%23f1f1f1" alt="JavaScript" />  
+
+  <img src="https://img.shields.io/badge/TypeScript-%232D431E?style=for-the-badge&logo=typescript&logoColor=%23f1f1f1" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23466D20?style=for-the-badge&logo=javascript&logoColor=%23f1f1f1" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-%232D431E?style=for-the-badge&logo=go&logoColor=%23f1f1f1" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-%23769440?style=for-the-badge&logo=kotlin&logoColor=%23f1f1f1" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-%23466D20?style=for-the-badge&logo=coffeescript&logoColor=%23f1f1f1" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-%231C2211?style=for-the-badge&logo=html5&logoColor=%23f1f1f1" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%23070F06?style=for-the-badge&logo=css&logoColor=%23f1f1f1" alt="CSS3" />
+
     
 <p align="left">
     <img src="src/other.webp" alt="skills" width="240px"/>
 </p>
-  <img src="https://img.shields.io/badge/Linux-%231C2211?style=for-the-badge&logo=linux&logoColor=%23f1f1f1" alt="linux" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-%23070F06.svg?style=for-the-badge&logo=gnubash&logoColor=%23f1f1f1" alt="shell scripting" />
-  <img src="https://img.shields.io/badge/Oracle-%232D431E.svg?style=for-the-badge&logo=opera&logoColor=%23f1f1f1" alt="Oracle DBMS" />
-  <img src="https://img.shields.io/badge/SQL_Server-%23466D20?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt="SQL Server" />  
-  <img src="https://img.shields.io/badge/React-%23769440.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt="React" />
+
+ <img src="https://img.shields.io/badge/React-%23769440.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%231C2211?style=for-the-badge&logo=nextdotjs&logoColor=%23f1f1f1" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Linux-%231C2211?style=for-the-badge&logo=linux&logoColor=%23f1f1f1" alt="Linux" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-%23070F06.svg?style=for-the-badge&logo=gnubash&logoColor=%23f1f1f1" alt="Shell Scripting" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-%232D431E?style=for-the-badge&logo=springboot&logoColor=%23f1f1f1" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Quarkus-%23070F06?style=for-the-badge&logo=quarkus&logoColor=%23f1f1f1" alt="Quarkus" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-%23466D20?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/MQTT-%232D431E?style=for-the-badge&logo=mqtt&logoColor=%23f1f1f1" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Oracle-%232D431E.svg?style=for-the-badge&logo=opera&logoColor=%23f1f1f1" alt="Oracle DBMS" />
+  <img src="https://img.shields.io/badge/SQL_Server-%23466D20?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt="SQL Server" />
+
   
 <p align="left">
     <img src="src/learning.webp" alt="skills" width="240px"/>
 </p>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-%23466D20?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt="Compose Multiplatform" />
-  <img src="https://img.shields.io/badge/Zig-%231C2211?style=for-the-badge&logo=zig&logoColor=%23f1f1f1" alt="zig" />
-  <img src="https://img.shields.io/badge/Quarkus-%23070F06?style=for-the-badge&logo=quarkus&logoColor=%23f1f1f1" alt="quarkus" />
-  <img src="https://img.shields.io/badge/MQTT-%232D431E?style=for-the-badge&logo=MQTT&logoColor=%23f1f1f1" alt="MQTT" />
+
+ <img src="https://img.shields.io/badge/Software_Architecture-%23466D20?style=for-the-badge&logo=framework&logoColor=%23f1f1f1" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Infrastructure-%232D431E?style=for-the-badge&logo=icloud&logoColor=%23f1f1f1" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/DevOps-%231C2211?style=for-the-badge&logo=githubactions&logoColor=%23f1f1f1" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-%23070F06?style=for-the-badge&logo=apachekafka&logoColor=%23f1f1f1" alt="Distributed Systems" />
+
   
   
   <br><br><br>
