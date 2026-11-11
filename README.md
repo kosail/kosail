@@ -14,7 +14,7 @@ I build software the same way I admire software: clean, minimal, and open.
 Raised by Linux, shaped by free and open source communities, I care about products that feel simple to use and architectures that remain elegant long after they grow.
 
 
-TypeScript, React, Next.js, and Go are the tools I am using to design both the visible interface and the silent machinery behind it.
+Java, Kotlin, TypeScript and Go are the tools I am using to design both the visible interface and the silent machinery behind it.
 </p>
 </div>
 <br>
@@ -43,13 +43,12 @@ TypeScript, React, Next.js, and Go are the tools I am using to design both the v
 </p>
 
  <img src="https://img.shields.io/badge/React-%23769440.svg?style=for-the-badge&logo=react&logoColor=%23f1f1f1" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-%231C2211?style=for-the-badge&logo=nextdotjs&logoColor=%23f1f1f1" alt="Next.js" />
   <img src="https://img.shields.io/badge/Linux-%231C2211?style=for-the-badge&logo=linux&logoColor=%23f1f1f1" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Scripting-%23070F06.svg?style=for-the-badge&logo=gnubash&logoColor=%23f1f1f1" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-%232D431E?style=for-the-badge&logo=springboot&logoColor=%23f1f1f1" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Spring_Boot_4-%232D431E?style=for-the-badge&logo=springboot&logoColor=%23f1f1f1" alt="Spring Boot 4" />
   <img src="https://img.shields.io/badge/Quarkus-%23070F06?style=for-the-badge&logo=quarkus&logoColor=%23f1f1f1" alt="Quarkus" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-%23466D20?style=for-the-badge&logo=jetpackcompose&logoColor=%23f1f1f1" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/MQTT-%232D431E?style=for-the-badge&logo=mqtt&logoColor=%23f1f1f1" alt="MQTT" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%232D431E?style=for-the-badge&logo=postgresql&logoColor=%23f1f1f1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle-%232D431E.svg?style=for-the-badge&logo=opera&logoColor=%23f1f1f1" alt="Oracle DBMS" />
   <img src="https://img.shields.io/badge/SQL_Server-%23466D20?style=for-the-badge&logo=solid&logoColor=%23f1f1f1" alt="SQL Server" />
 
@@ -59,7 +58,7 @@ TypeScript, React, Next.js, and Go are the tools I am using to design both the v
 </p>
 
  <img src="https://img.shields.io/badge/Software_Architecture-%23466D20?style=for-the-badge&logo=framework&logoColor=%23f1f1f1" alt="Software Architecture" />
-  <img src="https://img.shields.io/badge/Infrastructure-%232D431E?style=for-the-badge&logo=icloud&logoColor=%23f1f1f1" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-%232D431E?style=for-the-badge&logo=icloud&logoColor=%23f1f1f1" alt="Infrastructure" />
   <img src="https://img.shields.io/badge/DevOps-%231C2211?style=for-the-badge&logo=githubactions&logoColor=%23f1f1f1" alt="DevOps" />
   <img src="https://img.shields.io/badge/Distributed_Systems-%23070F06?style=for-the-badge&logo=apachekafka&logoColor=%23f1f1f1" alt="Distributed Systems" />
 
